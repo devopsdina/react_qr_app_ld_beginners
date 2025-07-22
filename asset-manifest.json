@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react_qr_app_ld_beginners/static/css/main.90ffb642.css",
+    "main.js": "/react_qr_app_ld_beginners/static/js/main.76e1b0a1.js",
+    "static/js/453.56b8f105.chunk.js": "/react_qr_app_ld_beginners/static/js/453.56b8f105.chunk.js",
+    "static/media/astronaut.png": "/react_qr_app_ld_beginners/static/media/astronaut.1d752285128b052f17fb.png",
+    "static/media/astronaut_old.png": "/react_qr_app_ld_beginners/static/media/astronaut_old.09554e178415a8bfc0f6.png",
+    "static/media/ld_logo_white_old.png": "/react_qr_app_ld_beginners/static/media/ld_logo_white_old.a7492e3d4eeb3e04a651.png",
+    "static/media/ld_logo_white.png": "/react_qr_app_ld_beginners/static/media/ld_logo_white.c7ccd94b41333f877744.png",
+    "index.html": "/react_qr_app_ld_beginners/index.html",
+    "static/media/heart.svg": "/react_qr_app_ld_beginners/static/media/heart.4629aa3aefd94a3967ee777199ba3217.svg",
+    "main.90ffb642.css.map": "/react_qr_app_ld_beginners/static/css/main.90ffb642.css.map",
+    "main.76e1b0a1.js.map": "/react_qr_app_ld_beginners/static/js/main.76e1b0a1.js.map",
+    "453.56b8f105.chunk.js.map": "/react_qr_app_ld_beginners/static/js/453.56b8f105.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90ffb642.css",
+    "static/js/main.76e1b0a1.js"
+  ]
+}
