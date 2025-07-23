@@ -62,5 +62,5 @@ If you want to create a new project with all the right flags, then you can eithe
 
 ### Deploying
 
-1. When you're ready, `npm run deploy` to deploy to a new `gh-pages` branch of your repository
 1. On your GitHub repository, go to Settings > Pages and ensure you're using the **`gh-pages`** branch in the `root` directory
+1. When you're ready, `npm run deploy` to deploy to a new `gh-pages` branch of your repository
